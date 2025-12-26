@@ -12,7 +12,7 @@ function Contact() {
         <li>
           GitHub:{" "}
           <a
-            href="https://github.com/tu-usuario"
+            href="https://github.com/alejandrogb09"
             target="_blank"
             rel="noreferrer"
           >
